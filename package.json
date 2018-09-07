@@ -1,0 +1,22 @@
+{
+  "name": "jasmine_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adeydev/jasmine_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adeydev/jasmine_node/issues"
+  },
+  "homepage": "https://github.com/adeydev/jasmine_node#readme",
+  "dependencies": {
+    "jasmine": "^3.2.0"
+  }
+}
